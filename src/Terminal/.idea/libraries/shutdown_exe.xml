@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shutdown.exe">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shutdown.exe.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
