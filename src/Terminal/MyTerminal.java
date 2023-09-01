@@ -456,7 +456,6 @@ public class MyTerminal {
         return size;
     }
 
-
     private static String getLastModified(File file) {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         return sdf.format(new Date(file.lastModified()));
